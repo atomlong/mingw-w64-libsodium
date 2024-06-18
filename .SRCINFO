@@ -1,7 +1,7 @@
 pkgbase = mingw-w64-libsodium
 	pkgdesc = A modern, portable, easy to use crypto library (mingw-w64)
 	pkgver = 1.0.20
-	pkgrel = 1
+	pkgrel = 2
 	url = https://github.com/jedisct1/libsodium
 	arch = any
 	license = custom:ISC
